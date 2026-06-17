@@ -19,4 +19,4 @@ All project assets are organized in the folders above:
 
 ## 🚀 Quick Access
 To view the final dashboard screens, insights, and executive recommendations immediately, please open the full report directly here:
-👉 **[Click here to view the Results and Recommendations PDF]**
+👉 **[https://github.com/Dhay-ALzaidi/analysis-delivery-food-orders-in-saudi-/blob/main/dashboard/PDF%20dashboard.pdf]**
